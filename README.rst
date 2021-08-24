@@ -3,17 +3,9 @@ fake-useragent
 
 :info: Up to date simple useragent faker with real world database
 
-.. image:: https://img.shields.io/travis/hellysmile/fake-useragent.svg
-    :target: https://travis-ci.org/hellysmile/fake-useragent
+.. text:: Original Repository
+    :target: https://github.com/hellysmile/fake-useragent
 
-.. image:: https://codecov.io/gh/hellysmile/fake-useragent/branch/master/graph/badge.svg
-    :target: https://codecov.io/gh/hellysmile/fake-useragent
-
-.. image:: https://landscape.io/github/hellysmile/fake-useragent/master/landscape.svg?style=flat
-    :target: https://landscape.io/github/hellysmile/fake-useragent/master
-
-.. image:: https://img.shields.io/pypi/v/fake-useragent.svg
-    :target: https://pypi.python.org/pypi/fake-useragent
 
 Features
 ********
